@@ -5,7 +5,7 @@
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/francolazarocristian11@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francolazarocristian11@gmail.com)
+[![Gmail](https://img.shields.io/badge/cristianfrancoprime@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristianfrancoprime@gmail.com)
 
 </div>
 
