@@ -35,7 +35,7 @@ public class CristianFranco : Developer
 
     public string MetaActual =>
         "Especializarme como Full Stack en el ecosistema .NET, " +
-        "fortaleciendo Backend y Frontend 🚀";
+        "fortaleciendo Backend y Frontend";
 }
 ```
 
@@ -215,7 +215,7 @@ Reproductor de música desarrollado con ASP.NET MVC y SQL Server.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cristianprime&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/main/assets/lines/rainbow.png" width="100%">
 
 ##  Contacto
 
