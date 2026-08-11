@@ -212,7 +212,7 @@ Reproductor de música desarrollado con ASP.NET MVC y SQL Server.
 <div align="center">
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cristianfrancol&theme=tokyonight&hide_border=true" alt="streak stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cristianfrancoprime&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -221,7 +221,7 @@ Reproductor de música desarrollado con ASP.NET MVC y SQL Server.
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francolazarocristian11@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristianfrancoprime@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Próximamente-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Portafolio](https://img.shields.io/badge/Portafolio-Próximamente-000000?style=for-the-badge&logo=vercel&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-Próximamente-181717?style=for-the-badge&logo=github&logoColor=white)]()
